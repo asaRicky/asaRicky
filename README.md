@@ -25,7 +25,7 @@
 
 ### :man_technologist: About Me :
 I am Derrick Walala a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
-- :telescope: I’m currently a student at Moringa School studying Software Engineer.
+- :telescope: I’m currently a student at Strathmore University studying Bachelors in Business Information and Technology.
 
 - :seedling: Exploring Technical Content Writing.
 
